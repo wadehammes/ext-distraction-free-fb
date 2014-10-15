@@ -1,6 +1,6 @@
-/**
- * Place your custom CSS styles here.
- **/
+body.distractionFree {
+    background: #262626 !important;
+}
 
 body.distractionFree #pagelet_bluebar {
     display: none !important;
